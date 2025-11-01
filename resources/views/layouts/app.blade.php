@@ -13,6 +13,7 @@
                 <li><a href="{{ route('home') }}" >Главная</a></li>
                 <li><a href="{{ route('about') }}" >О проекте</a></li>
                 <li><a href="{{ route('contacts') }}" >Контакты</a></li>
+                <li><a href="{{ route('students.index') }}">Студенты</a></li>
             </ul>
         </div>
     </nav>
